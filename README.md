@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logantestroete
-- 👀 I’m interested in learning everything I can about the computer science industry and create a career 
-- 🌱 I’m currently learning c++
-- 📫 How to reach me ...
+- 👀 I’m interested in learning everything I can about the computer science industry
+- 🌱 I’m currently learning JavaScript/TypeScript/React
+- 📫 How to reach me ---> loganptestroete@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
