@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logantestroete
 - 👀 I’m interested in learning everything I can about the computer science industry
-- 🌱 I’m currently learning JavaScript/TypeScript/React
+- 🌱 I’m currently learning JavaScript/TypeScript/React and I am very new to GitHub
 - 📫 How to reach me ---> loganptestroete@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
